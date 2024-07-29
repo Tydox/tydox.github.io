@@ -5,7 +5,6 @@ date: 2021-05-08
 category: Jekyll
 layout: post
 ---
-# Arduino Line Follower w/ collision detection
 
 ### Final Product
 ![a](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/car.png)
