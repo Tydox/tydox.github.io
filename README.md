@@ -1,11 +1,8 @@
 ---
 layout: home
-title: Home
+title: Home - UNDER CONSTRUCTION 🚧👷🏻‍♂️🏗️
 permalink: /
 ---
-
-## UNDER CONSTRUCTION 🚧👷🏻‍♂️🏗️
-
 
 ## About Me <img src="/assets/web-selfie.png" alt="drawing" width="50" height="50"/>
 
@@ -46,14 +43,11 @@ My mission is to harness my skills & knowledge to create impactful solutions tha
 Explore my projects and join me on this journey of discovery and innovation. Let's build a better future together.
 
 
+---
 
 
 
-
-
-
-
-## License
+### License
 
 This work is open sourced under the Apache License, Version 2.0.
 
