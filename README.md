@@ -24,13 +24,14 @@ As an Electrical and Electronics Engineer, I am driven by a deep passion to crea
 With a strong foundation in various programming languages, I bring ideas to life through code.
 <table>
   <tr>
-    <th colspan="4">Arsenal</th>
+    <th colspan="5">Arsenal</th>
   </tr>
   <tr>
     <td>C</td>
     <td>C++</td>
     <td>MATLAB</td>
     <td>Python</td>
+    <td>Assembly</td>
   </tr>
 </table>
 Refining and expanding my knowledge in the realm is a neverending existing adventure.
