@@ -7,8 +7,7 @@ permalink: /
 ## UNDER CONSTRUCTION 🚧👷🏻‍♂️🏗️
 
 
-## About Me
-<img src="/assets/web-selfie.png" alt="drawing" width="50"/>
+## About Me <img src="/assets/web-selfie.png" alt="drawing" width="50" height="50"/>
 
 
 ### Crafting Innovations with Precision and Passion
