@@ -22,21 +22,10 @@ As an Electrical and Electronics Engineer, I am driven by a deep passion to crea
 
 ### Coding Proficiency
 
-With a strong foundation in various programming languages, I bring ideas to life through code. My skills include:
-
-- **C**
-- **C++**
-- **Matlab**
-- **Python**
-
-
-| **language** 	|     	|        	|        	|   	|
-|:------------:	|:---:	|:------:	|:------:	|---	|
-|       C      	| C++ 	| MATLAB 	| Python 	|   	|
-
+With a strong foundation in various programming languages, I bring ideas to life through code. 
 <table>
   <tr>
-    <th colspan="4">Language</th>
+    <th colspan="4">My skills include</th>
   </tr>
   <tr>
     <td>C</td>
