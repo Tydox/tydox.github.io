@@ -1,5 +1,5 @@
 ---
-title: Arduino Line Follower w/ collision detection
+title: DRSP - PSD Estimators
 author: Tydox
 date: 2024-03-18
 category: Jekyll
