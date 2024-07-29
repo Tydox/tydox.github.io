@@ -8,7 +8,7 @@ layout: post
 # Arduino Line Follower w/ collision detection
 
 ### Final Product
-![](https://github.com/Tydox/LineFollower/blob/master/Images/car.png)
+![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/car.png)
 
 
 ## Hardware
