@@ -34,11 +34,12 @@ With a strong foundation in various programming languages, I bring ideas to life
     <td>Python</td>
   </tr>
 </table>
-
+Refining and expanding my knowledge in the realm is a neverending existing adventure.
 
 ### Vision
 
-I believe in the power of technology to drive change and innovation. My mission is to harness my skills and knowledge to create impactful solutions that make a difference.
+I believe in the power of technology to drive change and innovation. 
+My mission is to harness my skills & knowledge to create impactful solutions that make a difference in society.
 
 ---
 
