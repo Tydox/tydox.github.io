@@ -4,7 +4,6 @@ author: Tydox
 date: 2024-03-18
 category: Jekyll
 layout: post
-cover: /assets/White-noise-zoom-animation.gif
 ---
 
 Ch3 - PSD Estimators, extra project for DRSP course.
@@ -20,4 +19,7 @@ Ch3 - PSD Estimators, extra project for DRSP course.
 
 
 End of line
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/dinosaur.gif)
+![](/assets/dinosaur.gif)
+
+
+![https://commons.wikimedia.org/wiki/File:White-noise-zoom-animation.gif](/assets/White-noise-zoom-animation.gif)
