@@ -8,7 +8,7 @@ layout: post
 # Arduino Line Follower w/ collision detection
 
 ### Final Product
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/car.png)
+![a](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/car.png)
 
 
 ## Hardware
@@ -34,16 +34,16 @@ Speed: optimal ~100[cm/sec] , minimum – 50[cm/sec] , maximum - 350[cm/sec]
 
 
 ### UML
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/Data_variables.png)
+![b](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/Data_variables.png)
 
 ### Simplfied Algorithem
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/basic_flow.png)
+![c](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/basic_flow.png)
 
 ### Basic Flow Chart
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/flowchart.png)
+![d](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/flowchart.png)
 
 ### Circuit
-![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/circuit-diagram.png)
+![e](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/circuit-diagram.png)
 
 
 Thanks for reading 😋
