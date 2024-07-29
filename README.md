@@ -8,7 +8,8 @@ permalink: /
 
 
 ## About Me
-![](/assets/web-selfie.png)
+<img src="/assets/web-selfie.png" alt="drawing" width="50"/>
+
 
 ### Crafting Innovations with Precision and Passion
 
