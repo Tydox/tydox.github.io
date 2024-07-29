@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Final Product
-![a](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/car.png)
+![](/assets/LineFollowerImages/car.png)
 
 
 ## Hardware
@@ -33,16 +33,16 @@ Speed: optimal ~100[cm/sec] , minimum – 50[cm/sec] , maximum - 350[cm/sec]
 
 
 ### UML
-![b](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/Data_variables.png)
+![](/assets/LineFollowerImages/Data_variables.png)
 
 ### Simplfied Algorithem
-![c](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/basic_flow.png)
+![](/assets/LineFollowerImages/basic_flow.png)
 
 ### Basic Flow Chart
-![d](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/flowchart.png)
+![](/assets/LineFollowerImages/flowchart.png)
 
 ### Circuit
-![e](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/circuit-diagram.png)
+![](/assets/LineFollowerImages/circuit-diagram.png)
 
 
 Thanks for reading 😋
