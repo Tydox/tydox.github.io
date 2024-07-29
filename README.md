@@ -22,7 +22,7 @@ As an Electrical and Electronics Engineer, I am driven by a deep passion to crea
 ### Coding Proficiency
 
 With a strong foundation in various programming languages, I bring ideas to life through code.
-<table>
+<table style="width:100%; text-align:center;">
   <tr>
     <th colspan="5">Arsenal</th>
   </tr>
