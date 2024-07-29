@@ -1,3 +1,10 @@
+---
+title: Arduino Line Follower w/ collision detection
+author: Tydox
+date: 2021-05-08
+category: Jekyll
+layout: post
+---
 # Arduino Line Follower w/ collision detection
 
 ### Final Product
