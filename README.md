@@ -29,13 +29,24 @@ With a strong foundation in various programming languages, I bring ideas to life
 - **Matlab**
 - **Python**
 
-| **language** 	  	|
-|:------------:	|:---:	|:------:	|:------:	|---	|
-|       C      	| C++ 	| MATLAB 	| Python 	|   	|
 
 | **language** 	|     	|        	|        	|   	|
 |:------------:	|:---:	|:------:	|:------:	|---	|
 |       C      	| C++ 	| MATLAB 	| Python 	|   	|
+
+<table>
+  <tr>
+    <th colspan="4">Language</th>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>C++</td>
+    <td>MATLAB</td>
+    <td>Python</td>
+  </tr>
+</table>
+
+
 ### Vision
 
 I believe in the power of technology to drive change and innovation. My mission is to harness my skills and knowledge to create impactful solutions that make a difference.
