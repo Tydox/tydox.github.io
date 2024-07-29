@@ -34,14 +34,14 @@ Speed: optimal ~100[cm/sec] , minimum – 50[cm/sec] , maximum - 350[cm/sec]
 
 
 ### UML
-![](https://github.com/Tydox/LineFollower/blob/master/Images/Data_variables.png)
+![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/Data_variables.png)
 
 ### Simplfied Algorithem
-![](https://github.com/Tydox/LineFollower/blob/master/Images/basic_flow.png)
+![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/basic_flow.png)
 
 ### Basic Flow Chart
-![](https://github.com/Tydox/LineFollower/blob/master/Images/flowchart.png)
+![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/flowchart.png)
 
 ### Circuit
-![](https://github.com/Tydox/LineFollower/blob/master/Images/circuit-diagram.png)
+![](https://github.com/Tydox/tydox.github.io/blob/master/assets/LineFollowerImages/circuit-diagram.png)
 
