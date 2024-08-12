@@ -3,7 +3,7 @@ layout: home
 title: Home - UNDER CONSTRUCTION 🚧👷🏻‍♂️🏗️
 permalink: /
 ---
-![My Github page](https://github.com/Tydox)
+[My Github page](https://github.com/Tydox)
 ## About Me <img src="/assets/web-selfie.png" alt="drawing" width="50" height="50"/>
 
 
