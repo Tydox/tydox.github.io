@@ -33,20 +33,20 @@ This project involves creating a console-based game where players navigate a boa
 ### Game Start
    - The game begins by reading the board structure from a file. Each row in the file represents a slot on the board.
    - The structure of a line for an instruction slot (I) in the file is:
-     ```
+     ```C
      [slot type = I], [instruction type], [slot name]
      ```
      Example:
-     ```
+     ```C
      I,S,start : get $350
      I,T,Get Ticket
      ```
    - The structure of a line for a property slot (P) in the file is:
-     ```
+     ```C
      [slot type = P], [city name], [slot name], [price], [rent]
      ```
      Example:
-     ```
+     ```C
      P,City1,property1,150,20
      ```
 
