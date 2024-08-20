@@ -64,7 +64,6 @@ This project involves creating a console-based game where players navigate a boa
 
    - `GameEngine` class orchestrates the overall flow of the game, controlling the sequence of turns, player interactions, and game logic. It acts as the main controller, ensuring that the rules are followed and that the game progresses smoothly.
 
-
    - `Instruction Slot` class, this type of slot provides specific instructions to the player, such as receiving money, moving to another slot, or drawing a card. The `Instruction Slot` class handles the execution of these instructions when a player lands on the slot.
 
 ### Other Rules
@@ -72,21 +71,20 @@ This project involves creating a console-based game where players navigate a boa
 
 ---
 
+---
+## Algorithm and flowchats
+### Algorithm
+![](https://github.com/Tydox/Project7/Images/algo-flow.png)
+### Class Relationships
+![](https://github.com/Tydox/Project7/Images/class-relationships.png)
+### Simplified workflow
+![](https://github.com/Tydox/Project7/Images/simple-flow1.png)
+![](https://github.com/Tydox/Project7/Images/simple-flow2.png)
+![](https://github.com/Tydox/Project7/Images/simple-flow3.png)
 
+
+---
 ## Screenshots
 
 ![]()
 
----
-## Algorithm and flowchats
-### Algorithm
-![](https://github.com/Tydox/Project7/blob/master/Images/algo-flow.png)
-### Class Relationships
-![](https://github.com/Tydox/Project7/blob/master/Images/class-relationships.png)
-### Simplified workflow
-![](https://github.com/Tydox/Project7/blob/master/Images/simple-flow1.png)
-![](https://github.com/Tydox/Project7/blob/master/Images/simple-flow2.png)
-![](https://github.com/Tydox/Project7/blob/master/Images/simple-flow3.png)
-
-
----
