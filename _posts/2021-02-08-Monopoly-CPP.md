@@ -74,14 +74,14 @@ This project involves creating a console-based game where players navigate a boa
 ---
 ## Algorithm and flowchats
 ### Algorithm
-![](https://github.com/Tydox/Project7/tree/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/algo-flow.png)
+![](/assets/MonopolyImages/algo-flow.png)
 
 ### Class Relationships
-![](https://github.com/Tydox/Project7/tree/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/class-relationships.png)
+![](/assets/MonopolyImages/class-relationships.png)
 ### Simplified workflow
-![1](https://github.com/Tydox/Project7/tree/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/simple-flow1.png)
-![2](https://github.com/Tydox/Project7/tree/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/simple-flow2.png)
-![3](https://github.com/Tydox/Project7/tree/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/simple-flow3.png)
+![1](/assets/MonopolyImages/simple-flow1.png)
+![2](/assets/MonopolyImages/simple-flow2.png)
+![3](/assets/MonopolyImages/simple-flow3.png)
 
 
 ---
