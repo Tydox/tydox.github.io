@@ -74,7 +74,7 @@ This project involves creating a console-based game where players navigate a boa
 ---
 ## Algorithm and flowchats
 ### Algorithm
-![0](https://github.com/Tydox/Project7/blob/master/Images/algo-flow)
+![](https://github.com/Tydox/Project7/blob/7b13119e5811bcaa2b51a7549f885e23a8ae4dd3/Images/algo-flow.png)
 
 ### Class Relationships
 ![11](https://github.com/Tydox/Project7/blob/master/Images/class-relationships.png)
