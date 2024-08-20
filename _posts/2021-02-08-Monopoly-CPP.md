@@ -6,11 +6,9 @@ category: Jekyll
 layout: post
 ---
 
+## Brief
 
 In my C++ Object Oriented Programming course, our final project was to create a working Monopoly.
-
-# Monopoly in C++ OOP
-
 
 This project involves creating a console-based game where players navigate a board with various slots that have different effects. The game structure is defined by an input file that specifies the types of slots on the board, and players compete by purchasing properties, managing resources, and making strategic decisions.
 
