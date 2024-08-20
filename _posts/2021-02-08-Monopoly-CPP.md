@@ -1,4 +1,3 @@
-
 ---
 title: Arduino Line Follower w/ collision detection
 author: Tydox
