@@ -1,5 +1,5 @@
 ---
-title: Arduino Line Follower w/ collision detection
+title: Monopoly in C++ OOP
 author: Tydox
 date: 2021-05-08
 category: Jekyll
